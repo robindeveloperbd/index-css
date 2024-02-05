@@ -1,0 +1,74 @@
+.headline p {
+    font-size: 40px;
+    text-align: center;
+    color: red;
+    margin: 0 auto;
+}
+.headline h1 {
+    font-size: 50px;
+    text-align: center;
+    color:yellow;
+    background-color:green;
+    width: 85%;
+    padding: 10px;
+    margin: 0 auto;
+}
+.info p {
+    font-size: 30px;
+    text-align: center;
+    color: blue;
+    margin: 0 auto;
+}
+.list {
+    width: 50%;
+}
+.list h2 {
+    font-size: 35px;
+    color:white;
+    background-color: #FC6736;
+    border:5px solid black;
+    border-radius: 20px;
+    padding:10px;
+    margin-left:75px;
+}
+.list li {
+    font-size:25px;
+    background-color:#FAE7F3;
+    padding: 10px;
+    margin: 0 auto;
+    margin-left: 75px;
+}
+.staff {
+    width: 50%;
+}
+h3 {
+    font-size: 35px;
+    color: yellow;
+    background-color: blue;
+    border:5px solid cornflowerblue;
+    padding: 10px;
+    margin-left:75px;
+}
+.staff p {
+    font-size: 25px;
+    margin-left:75px;
+    background-color: #FC6736;
+    padding: 10px;
+    border:5px solid chartreuse;
+    border-radius: 20px;
+}
+.staff li {
+    font-size: 30px;
+    color: #3559E0;
+    margin-left:75px; 
+}
+#from {
+    width: 50%
+}
+#from p {
+    font-size: 20px;
+}
+h4 {
+    font-size: 40px;
+    color: green;
+}
